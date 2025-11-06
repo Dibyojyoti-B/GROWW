@@ -44,5 +44,4 @@ Key supporting research:
 
 ---
 
-## Repository Structure
 
